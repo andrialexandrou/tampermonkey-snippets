@@ -8,4 +8,4 @@ Snippets for TamperMonkey
 
 ## Snippets
 
-* [Unset Focus](./build/unset-focus.user.js)
+* [Unset Focus](https://raw.githubusercontent.com/andrialexandrou/tampermonkey-snippets/mainunset-focus.js)
